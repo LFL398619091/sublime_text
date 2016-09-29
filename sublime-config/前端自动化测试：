@@ -1,4 +1,0 @@
-前端自动化测试：
-1）安装node.js
-2)npm安装其他组件
-3)karma（容器 karma start） + jasmine(类后台的junit，编写测试用例)
